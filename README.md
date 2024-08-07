@@ -1,2 +1,2 @@
 # c-basic-
-basic learning of C# and some 
+basic learning of C# (C Shrap)
